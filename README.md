@@ -1,5 +1,3 @@
-## Here is your GitHub README written in that same minimalist, "build-from-scratch" tone, customized for your location and high-end AI stack:
-
 Hey there 👋
 
 I'm Zain, a software and AI engineer based in Islamabad.
