@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Zain, a software and AI engineer based in Islamabad.
+I'm Zain, a software and AI engineer based in Islamabad, pursuing bachelors in Computer Science from NUST (Islamabad)
 
 I mostly work on Agentic AI and Multimodal RAG pipelines—using CrewAI, FastAPI, and Pinecone to build autonomous systems that actually solve problems.
 
