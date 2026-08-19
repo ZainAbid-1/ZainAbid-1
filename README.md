@@ -2,18 +2,18 @@ Hey there 👋
 
 I'm Zain, a software and AI engineer based in Islamabad, pursuing bachelors in Computer Science from NUST (Islamabad)
 
-I mostly work on Agentic AI and Multimodal RAG pipelines—using CrewAI, FastAPI, and Pinecone to build autonomous systems that actually solve problems.
+I mostly work on Full Stack, Agentic AI and Multimodal RAG pipelines—using React, FastAPI, Langchain, Langgraph, Supabase and Pinecone to build autonomous systems that actually solve problems.
 
-I’m currently a CS Sophomore at NUST, where I focus on bridging the gap between high-level AI research and production-ready software. I'm obsessed with moving beyond notebooks and building scalable infrastructure that can handle messy, real-world data.
+I’m currently a third year student at NUST, where I focus on bridging the gap between high-level AI research and production-ready software. I'm obsessed with moving beyond notebooks and building scalable infrastructure that can handle messy, real-world data.
 
 Everything you see here is built from the ground up, with a focus on logic integrity and high-fidelity data extraction.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools & Tech
 
-AI & Agents: CrewAI, LangChain, n8n, MCPs
+AI & Agents: CrewAI, LangChain, n8n, MCPs, Langgraph
 
-Backend & DB: Python, FastAPI, Pinecone (Vector DB), SQLite
+Backend & DB: Python, FastAPI, Pinecone (Vector DB), Supabase
 
 Frontend: React, TypeScript, Tailwind CSS
 
